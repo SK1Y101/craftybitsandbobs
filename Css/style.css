@@ -1,0 +1,84 @@
+body
+{
+	background-color: pink;
+}
+
+#mainbox
+{
+	width: 80%;
+	height: auto;
+	margin: auto;
+	background-color: #cccccc;
+	padding:2%;
+	border-radius:20px;
+}
+
+#topbox
+{
+	width: 95%;
+	height: auto;
+	margin: auto;
+	background-color: #999999;
+	border-radius:20px;
+	padding:10px;
+}
+
+#contentbox
+{
+	width: 95%;
+	height: auto;
+	margin: auto;
+	background-color: #bbbbbb;
+	border-radius:20px;
+	padding:10px;
+}
+
+#littlebox
+{
+	width: 95%;
+	height: auto;
+	margin: auto;
+	background-color: #aaaaaa;
+	border-radius:20px;
+	padding:10px;
+	font-family: "Times New Roman", Times, serif;
+	color: black;
+	font-size: 12pt;
+}
+
+a:link,a:visited
+{
+    color: pink;
+	padding: 5px;
+	text-decoration: none;
+	font-size: 20pt;
+}
+
+a:hover
+{
+    color: red;
+	background-color: pink;
+	border-radius: 10px;
+	padding: 5px;
+	font-size: 20pt;
+}
+
+h1
+{
+	font-family: "Times New Roman", Times, serif;
+	color: pink;
+	font-size: 70pt;
+	text-align: center;
+}
+
+h2
+{
+	font-family: "Times New Roman", Times, serif;
+	color: black;
+	font-size: 16pt;
+}
+
+figcaption
+{
+	font-size: 30pt;
+}
