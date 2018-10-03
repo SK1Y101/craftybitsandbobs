@@ -3,6 +3,13 @@ body
 	background-color: pink;
 }
 
+#centrebox
+{
+	width:auto;
+	height:auto;
+	margin:auto;
+	padding:5px;
+}
 #mainbox
 {
 	width: 80%;
