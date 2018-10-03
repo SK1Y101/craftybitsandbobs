@@ -1,6 +1,3 @@
----
-redirect_from: "/foo/"
----
 <Html>
 	<head>
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
@@ -41,7 +38,18 @@ redirect_from: "/foo/"
 			<br>
 			<div id="topbox">
 
-				content goes here
+				<br>
+				<p align="center">
+				Sorry, it looks like that page doesn't exist!<br>
+				Return to a previous page, or use the navigation bar above<br>
+				<button onclick="goBack()">Go Back</button><br>
+				<script>
+					function goBack()
+					{
+					    window.history.back();
+					}
+				</script>
+			</p>
 
 			</div>
 		</div>
