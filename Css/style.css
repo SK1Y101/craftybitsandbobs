@@ -5,9 +5,9 @@ body
 
 img.carousel
 {
-	width:4vw;
+	width:90%;
 	border-radius:30px;
-	margin:20px;
+	margin:auto;
 }
 
 #centrebox
