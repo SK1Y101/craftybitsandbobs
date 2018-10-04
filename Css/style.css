@@ -108,7 +108,14 @@ h2
 {
 	font-family: "Times New Roman", Times, serif;
 	color: black;
-	font-size: 3.3vw;
+	font-size: 2vw;
+}
+
+h3
+{
+	font-family: "Times New Roman", Times, serif;
+	color: black;
+	font-size: 2vw;
 }
 
 figcaption
@@ -118,5 +125,5 @@ figcaption
 
 p
 {
-	font-size=3.5vw
+	font-size:3.5vw
 }
