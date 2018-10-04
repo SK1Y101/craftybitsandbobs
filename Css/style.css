@@ -5,7 +5,7 @@ body
 
 img.carousel
 {
-	size:8vw;
+	width:4vw;
 	border-radius:30px;
 	margin:20px;
 }
@@ -127,7 +127,7 @@ h3
 
 figcaption
 {
-	font-size: 4vw;
+	font-size: 3vw;
 }
 
 p
