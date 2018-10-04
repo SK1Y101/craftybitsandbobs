@@ -102,7 +102,11 @@ h1
 {
 	font-family: "Times New Roman", Times, serif;
 	color: pink;
+<<<<<<< HEAD
 	font-size: 4vmin;
+=======
+	font-size: 1vw;
+>>>>>>> 5aeb31b11ec879f8036898210cac6e9bd700c9ce
 	text-align: center;
 }
 
