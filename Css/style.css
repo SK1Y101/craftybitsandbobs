@@ -108,18 +108,15 @@ h2
 {
 	font-family: "Times New Roman", Times, serif;
 	color: black;
-<<<<<<< HEAD
 	font-size: 3.3vw;
-=======
-	font-size: 3.3pt;
->>>>>>> 873c1d569559076750c3a40338668507e1e770d6
 }
 
 figcaption
 {
-<<<<<<< HEAD
 	font-size: 4vw;
-=======
-	font-size: 4pt;
->>>>>>> 873c1d569559076750c3a40338668507e1e770d6
+}
+
+p
+{
+	font-size=3.5vw
 }
