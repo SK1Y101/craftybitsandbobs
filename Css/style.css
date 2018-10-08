@@ -154,7 +154,8 @@ th
 th, td
 {
     text-align: left;
-    padding: 16px;
+    padding: 2vw;
+		font-size:2vw
 }
 
 tr:nth-child(even)
