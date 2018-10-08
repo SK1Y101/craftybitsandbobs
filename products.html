@@ -39,8 +39,29 @@
 			</div>
 			<br>
 			<br>
+			<style>
+				table
+				{
+				    border-spacing: 0;
+				    width: 100%;
+				    border: 1px solid #ddd;
+				}
+				th
+				{
+				    cursor: pointer;
+				}
+				th, td
+				{
+				    text-align: left;
+				    padding: 16px;
+				}
+				tr:nth-child(even)
+				{
+				    background-color: #f2f2f2
+				}
+			</style>
 			<div id="topbox">
-				<table id="myTable">
+				<table id="myTable" style="margin:auto;width:auto;">
 				  <tr>
 						<th onclick="sortTable(0)">Name</th>
 				    <th onclick="sortTable(1)">Country</th>
