@@ -107,7 +107,7 @@ a:hover
 	border-radius: 20px;
 }
 
-a.t:link,a:visited
+#t a:link,a:visited
 {
 	color: pink;
 	padding: 5px;
@@ -118,7 +118,7 @@ a.t:link,a:visited
 	border-radius:10px;
 }
 
-a.t:hover
+#t a:hover
 {
   color: red;
 	background-color: pink;
