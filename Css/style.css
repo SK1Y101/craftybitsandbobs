@@ -112,7 +112,7 @@ a.t:link,a:visited
 	color: pink;
 	padding: 5px;
 	text-decoration: none;
-	font-size: 2vw;
+	font-size: 100%;
 	-webkit-transition-duration: 0.4s;
   transition-duration: 0.4s;
 	border-radius:10px;
