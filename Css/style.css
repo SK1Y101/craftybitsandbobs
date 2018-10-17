@@ -107,6 +107,18 @@ a:hover
 	border-radius: 20px;
 }
 
+sub
+{
+  border: none;
+  color: white;
+  padding: 3vw 5vw;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 3vw;
+  margin: 4px 2px;
+}
+
 h1
 {
 	font-family: "Times New Roman", Times, serif;
