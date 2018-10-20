@@ -120,6 +120,7 @@ a:hover
 #t a:hover
 {
   color: red;
+	font-color: red;
 }
 
 sub
