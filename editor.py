@@ -322,6 +322,6 @@ def load(main=""):
 
     main.destroy()
 
-#start()
-loadpages()
-loadeditor()
+start()
+'''loadpages()
+loadeditor()'''
